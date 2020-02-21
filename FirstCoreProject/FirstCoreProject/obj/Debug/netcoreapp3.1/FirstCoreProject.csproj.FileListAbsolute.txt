@@ -1,0 +1,17 @@
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.exe
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.deps.json
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.runtimeconfig.json
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.runtimeconfig.dev.json
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.dll
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\bin\Debug\netcoreapp3.1\FirstCoreProject.pdb
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\staticwebassets\FirstCoreProject.StaticWebAssets.Manifest.cache
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\staticwebassets\FirstCoreProject.StaticWebAssets.xml
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.AssemblyInfoInputs.cache
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.AssemblyInfo.cs
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.RazorTargetAssemblyInfo.cache
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.dll
+C:\Users\sooraj\source\repos\FirstCoreProject\FirstCoreProject\obj\Debug\netcoreapp3.1\FirstCoreProject.pdb

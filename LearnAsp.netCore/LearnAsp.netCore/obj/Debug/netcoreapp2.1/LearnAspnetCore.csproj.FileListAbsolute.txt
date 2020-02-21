@@ -1,0 +1,14 @@
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.csprojAssemblyReference.cache
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.RazorAssemblyInfo.cache
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.RazorAssemblyInfo.cs
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.AssemblyInfoInputs.cache
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.AssemblyInfo.cs
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.TagHelpers.input.cache
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.TagHelpers.output.cache
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.RazorCoreGenerate.cache
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.RazorTargetAssemblyInfo.cache
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.RazorTargetAssemblyInfo.cs
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.dll
+C:\Users\sooraj\source\repos\LearnAsp.netCore\LearnAsp.netCore\obj\Debug\netcoreapp2.1\LearnAspnetCore.pdb
